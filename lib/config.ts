@@ -2,48 +2,40 @@ export const CONFIG = {
 
     MAINPROJECTS: [
       {
-        title: "Reponse App",
-        description: "A new way to chat with your communities and friends.",
-        role: "Founder & Front-End Developer",
-        what: "I founded Reponse back in 2021 to make comminication more easy than ever!",
+        title: "DROPTABLE",
+        description: "Innovative cross platform game - use phone as an PC game controller",
+        role: "Director & Android Platform Developer",
+        what: "I gathered the game development the group in 2023",
         img: "/projects/reponse.png",
-        linkto: "https://reponse.app"
+        linkto: "https://github.com/nadiaz2/DROPTABLE"
       },
       {
-        title: "CodAre",
-        description: "A Discord server for coding community.",
-        role: "Support Team & Staff",
-        what: "I joined the CodAre's support team in 2020 and it was best decision in my life.",
+        title: "DeadBattery",
+        description: "A third person shooter game made by Unreal 5",
+        role: "Game Designer & Game Developer",
+        what: "This is an class project that allow us developed a game in a term.",
         img: "/projects/codare.jpg",
-        linkto: "https://codare.fun"
+        linkto: "https://github.com/Azu109/DeadBattery"
       },
-      {
-        title: "RepeatPay",
-        description: "Innovative payment solution for your websites.",
-        role: "Founder & Developer",
-        what: "I founded RepeatPay back in 2021 to make open-source donating app for your donate pages and etc..",
-        img: "/projects/repeatpay.png",
-        linkto: "https://repeatpay.ga"
-      }
     ] as MAINPROJECTS[],
   
     SIDEPROJECTS: [
       {
-        title: "v1",
-        description: "🎄 A simple portfolio website made by using React (this website <3)",
+        title: "Piniverse Content Creation Engine",
+        description: "An AI model generator base on human language input",
         img: "/projects/v1.png",
-        linkto: "v1",
-        view: "https://rexulec.com",
+        linkto: "https://github.com/Azu109/Piniverse",
+        view: "https://github.com/Azu109/Piniverse",
         mode: "1"
       },
       {
-        title: "v2",
-        description: "🎄 A simple portfolio website made by using React (this website <3)",
+        title: "Hospital Map System",
+        description: "A hospital map and service manage system",
         img: "/projects/v1.png",
-        linkto: "v1",
-        view: "https://rexulec.com",
+        linkto: "https://github.com/Azu109/ferocious-furrets",
+        view: "https://github.com/Azu109/ferocious-furrets",
         mode: "1"
-      }
+      },
     ] as SIDEPROJECTS[],
   };
   

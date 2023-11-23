@@ -6,26 +6,17 @@ interface IProps {
 export const Header:FC<IProps> = function({title}){
     return (
     <Head>
-        <title>{title} | rexulec.</title>
-        <meta name="description" content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares." />
-        <link rel="icon" href="/icon.png" />
+        <title>{title} | Azu</title>
+        <link rel="icon" href="/icon.jpg" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-        <meta name="title" content="ReXulEc"/>
-        <meta name="description" content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."/>
-
+        <meta name="title" content="Azu"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:url" content="https://rexulec.com"/>
-        <meta property="og:title" content="rexulec | mert doğu"/>
-        <meta property="og:description" content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."/>
-        <meta property="og:image" content="https://rexulec.com/icon.png"/>
+        <meta property="og:url" content="https://azu109.com"/>
+        <meta property="og:title" content="Azu | Shiming De"/>
+        <meta property="og:image" content="https://azu109.com/icon.jpg"/>
         <meta property="theme-color" content="#d6cdf9"/>
 
-        <meta property="twitter:url" content="https://rexulec.com"/>
-        <meta property="twitter:title" content="rexulec.com"/>
-        <meta property="twitter:description" content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."/>
-        <meta property="twitter:image" content="https://rexulec.com/icon.png"/>
-        <meta property="twitter:domain" content="rexulec.com"/>
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
